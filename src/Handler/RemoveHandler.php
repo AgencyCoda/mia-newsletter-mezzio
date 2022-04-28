@@ -1,6 +1,6 @@
 <?php
 
-namespace Mia\Newsletter\Handler\MiaNewsletter;
+namespace Mia\Newsletter\Handler;
 
 use Mia\Core\Exception\MiaException;
 
